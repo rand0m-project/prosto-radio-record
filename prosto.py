@@ -18,7 +18,7 @@ def rec():
          	   	break
 	
 	#print(os.path.abspath(__file__))  
-	bot.send_audio(chat_id=183600253, audio=open('stream.mp3', 'rb'))    
+	bot.send_audio(chat_id=123456789, audio=open('stream.mp3', 'rb'))    
 	print('send one...') 
 
 
